@@ -1,1 +1,1 @@
-[link] (https://js-crashcourse.netlify.app)
+https://js-crashcourse.netlify.app
